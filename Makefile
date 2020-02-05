@@ -1,7 +1,7 @@
 default: docker_build
 
 DOCKER_IMAGE ?= aido93/helm-kubectl-vault
-DOCKER_TAG ?= `git rev-parse --abbrev-ref HEAD`
+DOCKER_TAG ?= `git describe --tags`
 
 docker_build:
 	@docker build \
