@@ -1,4 +1,4 @@
-FROM dtzar/helm-kubectl:3.0.1
+FROM dtzar/helm-kubectl:3.0.2
 
 # Note: Latest version of helm may be found at:
 # https://github.com/hashicorp/vault/releases
