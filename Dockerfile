@@ -52,7 +52,7 @@ RUN mkdir -p /vault/logs && \
     chown -R vault:vault /vault
 
 RUN apk add jq
-COPY --from vt /vault-template /usr/local/bin/vault-template
+COPY --from=vt /vault-template /usr/local/bin/vault-template
 # Expose the logs directory as a volume since there's potentially long-running
 # state in there
 VOLUME /vault/logs
