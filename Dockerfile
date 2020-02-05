@@ -1,8 +1,10 @@
+FROM rplan/vault-template as vt
 FROM dtzar/helm-kubectl:2.14.3
 
 # Note: Latest version of helm may be found at:
 # https://github.com/hashicorp/vault/releases
-ENV VAULT_VERSION="1.3.2"
+ENV VAULT_VERSION="1.3.2" \
+    VAULT_FORMAT=json
 
 RUN addgroup vault && \
     adduser -S -G vault vault
@@ -50,7 +52,7 @@ RUN mkdir -p /vault/logs && \
     chown -R vault:vault /vault
 
 RUN apk add jq
-
+COPY --from=vt /vault-template /usr/local/bin/vault-template
 # Expose the logs directory as a volume since there's potentially long-running
 # state in there
 VOLUME /vault/logs
