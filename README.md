@@ -2,17 +2,17 @@
 
 Supported tags and release links
 
-* [3.0.3](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.3-1.3.2) - helm v3.0.3, kubectl v1.17.2, vault v1.3.2, alpine 3.11
-* [3.0.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.2-1.3.2) - helm v3.0.2, kubectl v1.17.0, vault v1.3.2, alpine 3.10
-* [3.0.1](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.1-1.3.2) - helm v3.0.1, kubectl v1.16.3, vault v1.3.2, alpine 3.10
-* [3.0.0](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.0-1.3.2) - helm v3.0.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.16.1](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.16.1-1.3.2) - helm v2.16.1, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.16.0](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.16.0-1.3.2) - helm v2.16.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.15.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.2-1.3.2) - helm v2.15.2, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.15.1](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.1-1.3.2) - helm v2.15.1, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.15.0](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.0-1.3.2) - helm v2.15.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
-* [2.14.3](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.14.3-1.3.2) - helm v2.14.3, kubectl v1.15.2, vault v1.3.2, alpine 3.10
-* [2.14.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.14.2-1.3.2) - helm v2.14.2, kubectl v1.15.0, vault v1.3.2, alpine 3.10
+* [3.0.3-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.3-1.3.2) - helm v3.0.3, kubectl v1.17.2, vault v1.3.2, alpine 3.11
+* [3.0.2-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.2-1.3.2) - helm v3.0.2, kubectl v1.17.0, vault v1.3.2, alpine 3.10
+* [3.0.1-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.1-1.3.2) - helm v3.0.1, kubectl v1.16.3, vault v1.3.2, alpine 3.10
+* [3.0.0-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/3.0.0-1.3.2) - helm v3.0.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.16.1-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.16.1-1.3.2) - helm v2.16.1, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.16.0-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.16.0-1.3.2) - helm v2.16.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.15.2-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.2-1.3.2) - helm v2.15.2, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.15.1-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.1-1.3.2) - helm v2.15.1, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.15.0-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.15.0-1.3.2) - helm v2.15.0, kubectl v1.16.2, vault v1.3.2, alpine 3.10
+* [2.14.3-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.14.3-1.3.2) - helm v2.14.3, kubectl v1.15.2, vault v1.3.2, alpine 3.10
+* [2.14.2-1.3.2](https://github.com/aido93/helm-kubectl-vault/releases/tag/2.14.2-1.3.2) - helm v2.14.2, kubectl v1.15.0, vault v1.3.2, alpine 3.10
 
 ## Overview
 
