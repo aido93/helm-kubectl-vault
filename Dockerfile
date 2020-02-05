@@ -49,6 +49,7 @@ RUN mkdir -p /vault/logs && \
     mkdir -p /vault/config && \
     chown -R vault:vault /vault
 
+RUN apk add jq
 # Expose the logs directory as a volume since there's potentially long-running
 # state in there
 VOLUME /vault/logs
