@@ -1,4 +1,4 @@
-FROM rplan/vault-template as vt
+FROM aido93/vault-template as vt
 FROM dtzar/helm-kubectl:3.0.1
 
 # Note: Latest version of helm may be found at:
