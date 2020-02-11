@@ -1,5 +1,5 @@
 FROM aido93/vault-template as vt
-FROM dtzar/helm-kubectl:2.16.0
+FROM dtzar/helm-kubectl:2.16.1
 
 # Note: Latest version of helm may be found at:
 # https://github.com/hashicorp/vault/releases
