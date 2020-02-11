@@ -1,5 +1,5 @@
 FROM aido93/vault-template as vt
-FROM dtzar/helm-kubectl:2.14.3
+FROM dtzar/helm-kubectl:2.15.0
 
 # Note: Latest version of helm may be found at:
 # https://github.com/hashicorp/vault/releases
@@ -52,7 +52,6 @@ RUN mkdir -p /vault/logs && \
     chown -R vault:vault /vault
 
 RUN apk add jq
-
 COPY --from=vt /vault-template /usr/local/bin/vault-template
 # Expose the logs directory as a volume since there's potentially long-running
 # state in there
